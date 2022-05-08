@@ -1,0 +1,83 @@
+/*
+============== background Color====================
+*/
+.dark-bg, .hover-bg:hover, .ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, .faq .collape-plus,
+.container-filter li a.active, .container-filter li a:hover, .container-filter li a, .link-zoom a, .link-zoom a.project_links,
+.project-info, #related-project .owl-prev:hover, #related-project .owl-next:hover, .sidebar-widget .widget-tag li a:hover,
+.content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next,
+.image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next,
+.fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next,
+.nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next, .blog-date,
+.pagination-nav ul li.active a, .pagination-nav ul li:hover a, .page-signin .body-inner:before, .b-line, .bottom-section,
+.tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, .bullet_round:after, .second_righ:after,
+#footer-widgets .widget .widget-title > span::after, .faq .collape-plus, .panel-title a i,
+#footer-widgets .widget.widget_socials .socials a:hover:before, .box-hover:hover .team-block,
+.ui-input-group .input-bar:before, .ui-input-group .input-bar:after,
+.services-block .inner-box .image .icon-box, .process-icon .icon_bigger, nav.navbar.bootsnav ul.nav li a.custom-btn,
+.header_bg .reletiv_box:before, .banner_content, .btn_style:hover, figure.effect-zoe figcaption, .bg_yellow,
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev:hover, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next:hover,
+.newsletter .newsletter-btn, .white_btn:hover, .header_tran .navigation .sub-nav,
+.top-service:hover, .top-service.active, .team_hover, .single_service__block:hover .service_content__blcok,
+.testimonial_carosule-wrap .owl-nav div:hover 
+{
+    border-radius:13px;
+  background: #ffc527;
+}
+
+.main-menu__block ul li:hover > a, .main-menu__block ul li:hover > a, #header .navigation .sub-nav {
+  background: #ffc527;
+}
+
+figure.effect-zoe p.description, .client-name {
+  background: #E8A20D;
+  /* The Fallback */
+  /* background: rgba(232, 162, 13, 0.6); */
+}
+
+.icon_down:hover {
+  box-shadow: inset 0px 0px 0px 4px #E8A20D;
+}
+
+.bullet_round:before, .second_righ:before {
+  box-shadow: 0 0 6px 6px #E8A20D;
+}
+
+/*
+============== Text Color====================
+*/
+.btn_line_style:hover, .gallery-heading h4 a:hover, .post-meta span > a > i, .sidebar-widget ul li a:hover, .lead-point li, .blog-post .fa-tag, .pagination-nav ul li a, .big-font i, .color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a, .single-sidebar-widget .special-links li a.active, .custom-check:before, .poins ul li i, .testimorial-bg .testimonial .invatic-icon, .latest__block-title:hover a, .more_btn__block, .navigation > ul > li > a:hover, .navigation .sub-nav li a:hover, .solution_box i.color_orenge, .single-fact .icon-boxed, .star i, .ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ label, .main-banner .banner-text h2 span, .icon-wrap, .services-block .inner-box .lower-box a:hover, .process-icon .icon-number, .top-info__block li i, nav.navbar.bootsnav ul.nav li:hover > a, .about_comp span, .services-block .inner-box .image .overlay-box .read-more:hover, .header_bg .top-bar-section .top-social-icon .icons-hover-black a:hover, .header_bg .top_loction ul li a:hover, .header_tran .top_loction ul li a i, .header_tran .top-bar-section .top-social-icon .icons-hover-black a:hover, .header_tran .top_loction ul li a:hover, .header_tran .top-bar-section .top-social-icon .icons-hover-black a, .header_tran .top-bar-section .top-social-icon .icons-hover-black a:hover, .header_tran .top_loction ul li a:hover, .top_compy span, .compny_point i, .analyzed_wrap__block .icon__block i.fa, .single_analize__block h2, .comp-service h3 .size, .icon-section i, .single_service__block:hover .icon_box__block i.fa, .member_S_links__block a:hover i.fa {
+  color: #ffc527;
+}
+
+/*
+============== Border Color====================
+*/
+.ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, #related-project .owl-prev:hover, #related-project .owl-next:hover,
+.widget-tag li a, .pagination-nav ul li a, .client-avtar, .contact .icon-circle,
+.contact-form input[type="text"]:focus, .contact-form textarea:focus, .single-sidebar-widget .special-links li a:before,
+.widget-search input[type="text"]:focus, .custom-check, .container-filter li a, .container-filter li a.active,
+.container-filter li a:hover, .testimorial-bg .testimonial .invatic-icon, .tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover,
+#footer-widgets .widget.widget_socials .socials a:hover:before, .v-line,
+.arrow_theme .owl-prev, .arrow_theme .owl-next, .arrow_theme .owl-prev:hover, .arrow_theme .owl-next:hover, .sec-title h2:after,
+.services-block .inner-box .lower-box, .btn_style:hover,
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next,
+.nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-prev:hover, .nf-carousel-theme.nf-carousel-arrow .owl-controls .owl-next:hover,
+.white_btn:hover, .project_bg .item-box, .icon-section i, .testimonial_carosule-wrap .owl-nav div:hover {
+  border-color: #ffc527;
+}
+
+.team-member .inner-box .overlay-box:after, .header_bg .reletiv_box:after {
+  border-bottom-color: #ffc527;
+}
+
+.header_bg .reletiv_box:after {
+  border-left-color: #ffc527;
+}
+
+.top-part__block:before {
+  /* box-shadow: 2px 2px 0px 11px #E8A20D; */
+}
+
+.blog-post-hr input[type="text"]:focus, .blog-post-hr textarea:focus {
+  border-color: #E8A20D;
+}
